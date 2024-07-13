@@ -29,6 +29,7 @@ Book a Seat: Enter the bus number and select a seat to book.
 View Seat Details: Enter the bus number to see seat availability.
 Exit: Exit the program when done.
 
+![image](https://github.com/user-attachments/assets/acbfef20-11bd-4a50-aa1e-8befc6537c07)
 
 
 ## Contact 
