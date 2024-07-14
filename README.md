@@ -16,7 +16,7 @@ This is a simple bus booking system implemented in Java. It allows users to view
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/BusBookingSystem.git
+   https://github.com/rajat705/BusBookingSystem
    cd BusBookingSystem
    cd src
    javac *.java -d ../out   
